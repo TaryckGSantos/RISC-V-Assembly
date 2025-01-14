@@ -1,6 +1,6 @@
 # Projetos em RISC-V Assembly
 
-Implementações de programas escritos em **RISC-V Assembly**, abordando diferentes funcionalidades e operações.
+Implementações de programas escritos em **RISC-V Assembly**, abordando diferentes funcionalidades e operações
 
 ---
 
